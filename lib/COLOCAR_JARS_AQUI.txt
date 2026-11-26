@@ -1,0 +1,1 @@
+Execute preparar_bibliotecas.bat para obter os dois JARs necessários.
